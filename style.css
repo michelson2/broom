@@ -32,7 +32,7 @@ h1, h3 {
 
 /* Banner / cabeçalho */
 #i-one {
-  background-image: url("imagens/xfundohead.jpg");
+  background-image: url("xfundohead.jpg");
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
