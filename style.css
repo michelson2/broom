@@ -1,0 +1,171 @@
+/* Fonts
+font-family: 'Anton', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+}
+
+h1, h3 {
+  font-family: 'Anton', sans-serif;
+}
+
+
+
+.cta {
+  padding: 15% 0 0 0;
+  margin: 0 1% 0 1%;
+}
+
+/* .navbar {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+} /*
+
+/* Barra de navegação / Menu */
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Banner / cabeçalho */
+#i-one {
+  background-image: url("imagens/xfundohead.jpg");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0% 0% 21%;
+}
+
+.i-one-title {
+  padding: 10% 0 0% 2%
+}
+
+.i-one-text {
+  padding: 1% 0 3% 2%
+}
+
+.i-one-button {
+  margin: 2% 0 0 2%;
+}
+
+
+/* Features / Vantagens */
+#i-two {
+  padding: 5% 5% 8%;
+  text-align: center;
+  color: #000;
+}
+
+.xfeatures i{
+  font-size: 6rem;
+}
+
+.masc-blue {
+  background: -webkit-linear-gradient(left, #007BFF 0%, #0069D9 100%);
+  background: linear-gradient(to right, #007BFF 0%, #0069D9 100%);
+
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+.masc-blue:hover {
+  background: -webkit-linear-gradient(left, #0069D9 20%, #007BFF 80%);
+  background: linear-gradient(to right, #0069D9 20%, #007BFF 80%);
+
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+/* Cards / Serviços */
+#i-three {
+  padding: 10% 5% 18%;
+  text-align: center;
+  background-color: #eaeaea;
+}
+
+#i-three i {
+  color: #2b2726;
+  font-size: 5rem;
+}
+
+/* Chamada para ação */
+#i-four {
+  padding: 5% 5% 10%;
+  text-align: center;
+}
+
+.services {
+
+}
+
+#testimonial-carousel img {
+  width: 15%;
+  border-radius: 100%;
+}
+
+.carousel-item {
+  padding: 1% 1% 0;
+}
+
+/* Links Úteis */
+#i-five {
+  text-align: center;
+  padding: 2% 5%;
+  background-color: #000;
+  color: #eaeaea;
+}
+
+i {
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+ul {
+  list-style-type:none;
+  text-align: center;
+}
+
+.masc-orange {
+  background: -webkit-linear-gradient(left, #f8b739 0%, #dd6b4d 100%);
+  background: linear-gradient(to right, #f8b739 0%, #dd6b4d 100%);
+
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+.masc-orange:hover {
+  background: -webkit-linear-gradient(left, #dd6b4d 0%, #f8b739 100%);
+  background: linear-gradient(to right, #dd6b4d 0%, #f8b739 100%);
+
+    -webkit-background-clip: text;
+    color: transparent !important;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10% 0 0%;
+  font-size: 0.7rem;
+}
+
+hr {
+  color: #fff;
+  border: solid 0.5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Campo de avisos do Atom */
